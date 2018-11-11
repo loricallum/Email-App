@@ -1,2 +1,10 @@
 # Email-App
-Email application to view database of names, departments, and issues a random password - written using Java
+Email application written using Java
+
+Provides: 
+database of names, 
+department codes
+shows mailbox capacity
+issues random passwords with defaultPasswordLength
+issues alternate password
+
